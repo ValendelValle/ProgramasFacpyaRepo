@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KEkKnhssQs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lunav\\OneDrive\\DODO EV4\\1er parcial\\Apis\\src\\Alumnos.Api\\Alumnos.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.18\\microsoft.aspnetcore.openapi.9.0.18.nupkg.sha512",
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\lunav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
